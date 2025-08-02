@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><b><font color='blue'>titileValidate:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/titileValidate.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/titileValidate.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[Title Validatin Pass]]>
+    </line>
+    <line>
+      <![CDATA[Sub Title Validation pass]]>
+    </line>
+    <line>
+      <![CDATA[User ID input Field Validation pass]]>
+    </line>
+    <line>
+      <![CDATA[User Password input validation pass]]>
+    </line>
+    <line>
+      <![CDATA[Login button validation pass]]>
+    </line>
+    <line>
+      <![CDATA[Eye icon visible]]>
+    </line>
+    <line>
+      <![CDATA[User ID Eneterd]]>
+    </line>
+    <line>
+      <![CDATA[User Password Eneterd]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='blue'>invalidLoginError:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/invalidLoginError.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/invalidLoginError.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='blue'>BeforeCheckingLoginButtonDisable:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeCheckingLoginButtonDisable.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeCheckingLoginButtonDisable.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='blue'>AfterClickingLoginButtonWithEmptyFields:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingLoginButtonWithEmptyFields.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingLoginButtonWithEmptyFields.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[If fields are empty the Login button returning true]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='blue'>BeforeClickingMaskIcon:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeClickingMaskIcon.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeClickingMaskIcon.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[Password should be masked by default PASS]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><font color='blue'>AfterClickingMaskIcon:</font></b><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingMaskIcon.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingMaskIcon.png' height='100' width='100'/></a><br>]]>
+    </line>
+    <line>
+      <![CDATA[Password should be unmasked after clicking eye icon PASS]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-08-02T17:48:46 IST" name="Janitri Login Tests" finished-at="2025-08-02T17:49:43 IST" duration-ms="56554">
+    <groups>
+    </groups>
+    <test started-at="2025-08-02T17:48:46 IST" name="Login Functional Tests" finished-at="2025-08-02T17:49:43 IST" duration-ms="56554">
+      <class name="com.Janitri.Innovations.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:48:46 IST" name="setup" finished-at="2025-08-02T17:48:58 IST" duration-ms="11496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testElementsPresentOnPage()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:48:58 IST" name="testElementsPresentOnPage" finished-at="2025-08-02T17:48:58 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><b><font color='blue'>titileValidate:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/titileValidate.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/titileValidate.png' height='100' width='100'/></a><br>]]>
+            </line>
+            <line>
+              <![CDATA[Title Validatin Pass]]>
+            </line>
+            <line>
+              <![CDATA[Sub Title Validation pass]]>
+            </line>
+            <line>
+              <![CDATA[User ID input Field Validation pass]]>
+            </line>
+            <line>
+              <![CDATA[User Password input validation pass]]>
+            </line>
+            <line>
+              <![CDATA[Login button validation pass]]>
+            </line>
+            <line>
+              <![CDATA[Eye icon visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testElementsPresentOnPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:48:58 IST" name="tearDown" finished-at="2025-08-02T17:48:59 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:48:59 IST" name="setup" finished-at="2025-08-02T17:49:10 IST" duration-ms="11762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInvalidLoginShowErrorMsg()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:10 IST" name="testInvalidLoginShowErrorMsg" finished-at="2025-08-02T17:49:16 IST" duration-ms="5485" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User ID Eneterd]]>
+            </line>
+            <line>
+              <![CDATA[User Password Eneterd]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><font color='blue'>invalidLoginError:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/invalidLoginError.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/invalidLoginError.png' height='100' width='100'/></a><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testInvalidLoginShowErrorMsg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:16 IST" name="tearDown" finished-at="2025-08-02T17:49:16 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:16 IST" name="setup" finished-at="2025-08-02T17:49:27 IST" duration-ms="11129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginButtonDisabledWhenFieldAreEmpty()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:27 IST" name="testLoginButtonDisabledWhenFieldAreEmpty" finished-at="2025-08-02T17:49:28 IST" duration-ms="685" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login button should be disabled when fields are empty. expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login button should be disabled when fields are empty. expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertFalse(Assert.java:67)
+at com.Janitri.Innovations.tests.LoginTest.testLoginButtonDisabledWhenFieldAreEmpty(LoginTest.java:22)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at com.Janitri.Innovations.TestNGRunner.main(TestNGRunner.java:14)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><b><font color='blue'>BeforeCheckingLoginButtonDisable:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeCheckingLoginButtonDisable.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeCheckingLoginButtonDisable.png' height='100' width='100'/></a><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><font color='blue'>AfterClickingLoginButtonWithEmptyFields:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingLoginButtonWithEmptyFields.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingLoginButtonWithEmptyFields.png' height='100' width='100'/></a><br>]]>
+            </line>
+            <line>
+              <![CDATA[If fields are empty the Login button returning true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginButtonDisabledWhenFieldAreEmpty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:28 IST" name="tearDown" finished-at="2025-08-02T17:49:28 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:28 IST" name="setup" finished-at="2025-08-02T17:49:40 IST" duration-ms="11164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPasswordMaskedbutton()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:40 IST" name="testPasswordMaskedbutton" finished-at="2025-08-02T17:49:42 IST" duration-ms="2698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><b><font color='blue'>BeforeClickingMaskIcon:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeClickingMaskIcon.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/BeforeClickingMaskIcon.png' height='100' width='100'/></a><br>]]>
+            </line>
+            <line>
+              <![CDATA[Password should be masked by default PASS]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><font color='blue'>AfterClickingMaskIcon:</font></b><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingMaskIcon.png' target='_blank'><img src='file://C:\Users\user\Documents\Eclips\JanitriInnovationsAutomationFramework/Screenshots/AfterClickingMaskIcon.png' height='100' width='100'/></a><br>]]>
+            </line>
+            <line>
+              <![CDATA[Password should be unmasked after clicking eye icon PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testPasswordMaskedbutton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:42 IST" name="tearDown" finished-at="2025-08-02T17:49:43 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.Janitri.Innovations.tests.LoginTest@319b92f3]" started-at="2025-08-02T17:49:43 IST" name="generateReport" finished-at="2025-08-02T17:49:43 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.Janitri.Innovations.tests.LoginTest -->
+    </test> <!-- Login Functional Tests -->
+  </suite> <!-- Janitri Login Tests -->
+</testng-results>
